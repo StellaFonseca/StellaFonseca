@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Stella Fonseca
 **`Suporte em Nuvem`**
 
-Comecei minha trajetória em TI aos 15 anos, com o ensino médio técnico em informática e recentemente concluí o tecnólogo em Análise e desenvolvimento de sistemas pela Anhanguera de Osasco. Meu perfil no Linkedln é "[Stella Fonseca Da Silva](www.linkedin.com/in/stella-fonseca)".
+Comecei minha trajetória em TI aos 15 anos, com o ensino médio técnico em informática e recentemente concluí o tecnólogo em Análise e desenvolvimento de sistemas pela Anhanguera de Osasco. Meu perfil no Linkedln é "[Stella Fonseca Da Silva](https://www.linkedin.com/in/stella-fonseca/)".
 
 ---
 ### 🤖 Tecnologias 
