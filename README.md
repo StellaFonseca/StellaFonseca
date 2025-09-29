@@ -51,3 +51,12 @@ Comecei minha trajetória em TI aos 15 anos, com o ensino médio técnico em inf
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="40px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
