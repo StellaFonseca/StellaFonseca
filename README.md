@@ -100,4 +100,4 @@ I participated actively in internal meetings, shadowed client calls to develop c
 
 **AWS Certified Cloud Practitioner** – Oct 2025
 
-**AWS re/Start Graduate** - Sep 2025
+**AWS re/Start Graduate** – Sep 2025
