@@ -1,9 +1,10 @@
 # 👩🏻‍💻Cloud, DevOps & Segurança
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
-Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos. Essa curiosidade me levou para tecnologia, e em tecnologia uma infinidade de caminhos podem ser escritos: hoje transito entre Cloud, DevOps e Cybersecurity, mas sigo curiosa e explorando o que mais esse universo tem a oferecer.
+Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
+Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
 
-Dei meus primeiros passos práticos em infraestrutura com AWS e pipelines CI/CD, e atuo hoje em cibersegurança, o que vai ampliando minha visão de como os sistemas se conectam e onde os riscos se escondem. Estou aprendendo, explorando e conectando pontos entre desenvolvimento, operações e segurança.
+Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo em cibersegurança, ampliando minha visão sobre como os sistemas se conectam e onde estão os riscos. Sigo aprendendo, explorando e conectando desenvolvimento, operações e segurança.
 
 <p align="start">
     <a href= "https://www.linkedin.com/in/stella-fonseca/">
@@ -13,7 +14,8 @@ Dei meus primeiros passos práticos em infraestrutura com AWS e pipelines CI/CD,
             src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
         />
    </a>
-
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00FF&size=20&duration=1500&pause=800&width=500&lines=booting...;loading+modules...;access+granted)](https://git.io/typing-svg)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph-dark.svg">
@@ -77,38 +79,28 @@ Dei meus primeiros passos práticos em infraestrutura com AWS e pipelines CI/CD,
 />
 <br>
 
+**☁️ Cloud & Infraestrutura:** AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue) • Terraform • Networking • Automação  
+**🔐 Cibersegurança:** Segurança em nuvem (básico) • IAM • Fundamentos de segurança  
+**🔧 DevOps & CI/CD:** CI/CD • Git/GitHub • GitLab Runner • Docker • Troubleshooting  
+**💻 Programação & Scripting:** Python (Boto3, Flask) • Bash • Automação  
+**🌐 Soft Skills:** Comunicação • Colaboração • Adaptabilidade • Resolução de problemas
 
-### ☁️ Cloud & Infraestrutura
- AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue), Terraform, Subnets & Routing, Automação de Infraestrutura
+## 💼 Experiência
 
-### 🔐 Cybersecurity
- Identity & Access Management (IAM), princípios de segurança em nuvem, segurança de redes, análise de acessos e identidades (IGA), fundamentos de segurança ofensiva e defensiva
+**DevOps Intern (Portugal)**  
+Atuação com AWS focada em automação e estabilidade de ambientes. Desenvolvimento de scripts em Python (Boto3/Flask), automação de rotinas e suporte a pipelines CI/CD (GitLab Runner), além de configuração e gestão de serviços como EC2, redes e conectividade entre ambientes.
 
-### 🔧 DevOps & CI/CD
- CI/CD pipelines, Git, GitHub, GitLab Runner, Crontab, Docker, Troubleshooting (netstat, telnet, nslookup, dig)
-
-### 💻 Programação & Scripting
-Python (Boto3, Flask), Bash/Shell scripting, scripts de automação
-
-### 🌐 Soft Skills
- Aprendizado rápido, adaptabilidade, colaboração em equipe, resolução de problemas, comunicação, gestão de tempo e priorização
-
-## 💼 Professional Experience
-
-Concluí um estágio de 2 meses em DevOps em Portugal, atuando com AWS para melhoria de estabilidade e automação de processos. Desenvolvi scripts em Python/Flask com Boto3 para gerenciamento de cache (CloudFront e Redis) e notificações via Teams e Slack, além de trabalhar com pipelines CI/CD (GitLab Runner) e infraestrutura como código com Terraform (EC2, redes e conectividade entre ambientes DEV, QA e PROD).
-
-Também participei de reuniões internas e acompanhamentos com clientes, fortalecendo habilidades de comunicação e entendimento do impacto técnico das entregas.
-
-Atualmente atuo em pré-vendas de cibersegurança, apoiando na definição de soluções, levantamento de requisitos e elaboração de propostas técnicas, enquanto aprimoro minhas habilidades técnicas e amplio meu conhecimento em tecnologias de segurança.
-
-## 🎓 Educação
-
-* Cloud Computing & AWS Training + IA – Escola da Nuvem | 2025
-
-* Análise e Desenvolvimento de Sistemas – Anhanguera, São Paulo, Brazil | 2024
+**Pré-vendas em Cibersegurança (Atual)**  
+Apoio na definição de soluções e elaboração de propostas técnicas, com foco em levantamento de requisitos e alinhamento entre necessidades de negócio e segurança, enquanto desenvolvo habilidades técnicas e aprofundo o conhecimento em tecnologias de cibersegurança.
 
 ## 🏆 Certificação
 
 **AWS Certified Cloud Practitioner** – Oct 2025
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
+###
