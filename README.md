@@ -103,8 +103,3 @@ I participated actively in internal meetings, shadowed client calls to develop c
 
 **AWS re/Start Graduate** – Sep 2025
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph.svg">
-</picture>
