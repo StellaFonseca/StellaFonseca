@@ -2,6 +2,8 @@
 
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
+<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
+
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
 Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
 
@@ -15,8 +17,6 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
             src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
         />
    </a>
-
-<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00FF&size=20&duration=1500&pause=900&width=600&lines=booting...;loading+modules...;access+granted)](https://git.io/typing-svg)
 
