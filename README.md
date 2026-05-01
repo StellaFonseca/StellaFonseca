@@ -15,8 +15,11 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
             src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
         />
    </a>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00FF&size=20&duration=1500&pause=800&width=500&lines=booting...;loading+modules...;access+granted)](https://git.io/typing-svg)
+
+<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00FF&size=20&duration=1500&pause=900&width=600&lines=booting...;loading+modules...;access+granted)](https://git.io/typing-svg)
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph-dark.svg">
@@ -26,20 +29,24 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
     
 ## 🪄 Habilidades e Tecnologias 🛠️
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="40"/>
-</p>
+<div align="center">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+</div>
 
 **☁️ Cloud & Infraestrutura:** AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue) • Terraform • Networking • Automação  
 **🔐 Cibersegurança:** Segurança em nuvem (básico) • IAM • Fundamentos de segurança  
 **🔧 DevOps & CI/CD:** CI/CD • Git/GitHub • GitLab Runner • Docker • Troubleshooting  
 **💻 Programação & Scripting:** Python (Boto3, Flask) • Bash • Automação  
 **🌐 Soft Skills:** Comunicação • Colaboração • Adaptabilidade • Resolução de problemas
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=2"/>
 
 ## 💼 Experiência
 
