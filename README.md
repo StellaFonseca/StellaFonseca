@@ -1,7 +1,9 @@
-# 👩🏻‍💻Cloud & DevOps – Junior
+# 👩🏻‍💻Cloud, DevOps & Segurança
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
-Curious about everything in technology, I am focused on cloud computing and DevOps, seeking to transform ideas into automated and efficient solutions. I enjoy exploring AWS and finding creative ways to solve technical challenges. I am always eager to learn, grow, and contribute to teams that build reliable and secure systems, while improving my English (currently at an intermediate level). I have a strong ability to learn and adapt quickly.
+Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos. Essa curiosidade me levou para tecnologia, e em tecnologia uma infinidade de caminhos podem ser escritos: hoje transito entre Cloud, DevOps e Cybersecurity, mas sigo curiosa e explorando o que mais esse universo tem a oferecer.
+
+Dei meus primeiros passos práticos em infraestrutura com AWS e pipelines CI/CD, e atuo hoje em cibersegurança, o que vai ampliando minha visão de como os sistemas se conectam e onde os riscos se escondem. Estou aprendendo, explorando e conectando pontos entre desenvolvimento, operações e segurança.
 
 <p align="start">
     <a href= "https://www.linkedin.com/in/stella-fonseca/">
@@ -14,7 +16,7 @@ Curious about everything in technology, I am focused on cloud computing and DevO
 
 ---
     
-## 🪄 Skills & Technologies 🛠️
+## 🪄 Habilidades e Tecnologias 🛠️
 
 <img
     align="left"
@@ -71,35 +73,37 @@ Curious about everything in technology, I am focused on cloud computing and DevO
 <br>
 
 
-### ☁️ Cloud & Infrastructure
- AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue), Terraform, Subnets & Routing, Infrastructure Automation
+### ☁️ Cloud & Infraestrutura
+ AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue), Terraform, Subnets & Routing, Automação de Infraestrutura
+
+### 🔐 Cybersecurity
+ Identity & Access Management (IAM), princípios de segurança em nuvem, segurança de redes, análise de acessos e identidades (IGA), fundamentos de segurança ofensiva e defensiva
 
 ### 🔧 DevOps & CI/CD
  CI/CD pipelines, Git, GitHub, GitLab Runner, Crontab, Docker, Troubleshooting (netstat, telnet, nslookup, dig)
 
-### 💻 Programming & Scripting
- Python (Boto3, Flask), Bash/Shell scripting, Automation scripts
+### 💻 Programação & Scripting
+Python (Boto3, Flask), Bash/Shell scripting, scripts de automação
 
 ### 🌐 Soft Skills
- Quick learner, adaptable, team collaboration, problem-solving, communication, time management & prioritization
+ Aprendizado rápido, adaptabilidade, colaboração em equipe, resolução de problemas, comunicação, gestão de tempo e priorização
 
 ## 💼 Professional Experience
 
-I completed a 2-month DevOps internship in Portugal, working on hands-on, low-impact tasks in AWS Cloud to improve stability and automate routine processes. I developed Python/Flask scripts with Boto3 for cache management (CloudFront and Redis) and automated notifications via Teams and Slack, and worked on CI/CD pipelines with GitLab Runner and crontab. I also created EC2 instances and subnets using Terraform, and configured routing tables and connectivity in hybrid DEV, QA, and PROD environments.
+Concluí um estágio de 2 meses em DevOps em Portugal, atuando com AWS para melhoria de estabilidade e automação de processos. Desenvolvi scripts em Python/Flask com Boto3 para gerenciamento de cache (CloudFront e Redis) e notificações via Teams e Slack, além de trabalhar com pipelines CI/CD (GitLab Runner) e infraestrutura como código com Terraform (EC2, redes e conectividade entre ambientes DEV, QA e PROD).
 
-I participated actively in internal meetings, shadowed client calls to develop communication and teamwork skills, and aligned my work with senior analysts to understand the impact of actions on environments. This experience strengthened my cloud, DevOps, and infrastructure automation skills, while enhancing my ability to learn, adapt, and collaborate effectively.
+Também participei de reuniões internas e acompanhamentos com clientes, fortalecendo habilidades de comunicação e entendimento do impacto técnico das entregas.
 
-## 🎓 Education
+Atualmente atuo em pré-vendas de cibersegurança, apoiando na definição de soluções, levantamento de requisitos e elaboração de propostas técnicas, enquanto aprimoro minhas habilidades técnicas e amplio meu conhecimento em tecnologias de segurança.
 
-* Cloud Computing & AWS Training – Escola da Nuvem | 2025
+## 🎓 Educação
 
-* Technologist in Systems Analysis & Development – Anhanguera, São Paulo, Brazil | 2024
+* Cloud Computing & AWS Training + IA – Escola da Nuvem | 2025
 
-* Technical High School in IT – Centro Educacional Desafio, São Paulo, Brazil | 2021
+* Análise e Desenvolvimento de Sistemas – Anhanguera, São Paulo, Brazil | 2024
 
-## 🏆 Certifications
+## 🏆 Certificação
 
 **AWS Certified Cloud Practitioner** – Oct 2025
 
-**AWS re/Start Graduate** – Sep 2025
 ---
