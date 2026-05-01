@@ -2,7 +2,7 @@
 
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
-<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
+<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="170"/>
 
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
 Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
@@ -20,7 +20,6 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00FF&size=20&duration=1500&pause=900&width=600&lines=booting...;loading+modules...;access+granted)](https://git.io/typing-svg)
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph.svg">
