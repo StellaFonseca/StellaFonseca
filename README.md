@@ -11,7 +11,6 @@ Curious about everything in technology, I am focused on cloud computing and DevO
             src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
         />
    </a>
-
 ---
 ## 🪄 Skills & Technologies 🛠️
 
@@ -101,3 +100,9 @@ I participated actively in internal meetings, shadowed client calls to develop c
 **AWS Certified Cloud Practitioner** – Oct 2025
 
 **AWS re/Start Graduate** – Sep 2025
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StellaFonseca/StellaFonseca/output/pacman-contribution-graph.svg">
+</picture>
