@@ -1,4 +1,5 @@
-# 👩🏻‍💻Cloud, DevOps & Segurança
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30"/> Cloud, DevOps & Segurança
+
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
@@ -25,59 +26,14 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
     
 ## 🪄 Habilidades e Tecnologias 🛠️
 
-<img
-    align="left"
-    alt="Linux"
-    title="Linux"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
-<img
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-
-<img
-    align="left"
-    alt="Bash"
-    title="Bash"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
-/>
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-/>
-<img
-    align="left"
-    alt="Terraform"
-    title="Terraform"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-plain.svg"
-/>
-<br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="40"/>
+</p>
 
 **☁️ Cloud & Infraestrutura:** AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, CloudWatch, Glue) • Terraform • Networking • Automação  
 **🔐 Cibersegurança:** Segurança em nuvem (básico) • IAM • Fundamentos de segurança  
@@ -98,9 +54,7 @@ Apoio na definição de soluções e elaboração de propostas técnicas, com fo
 **AWS Certified Cloud Practitioner** – Oct 2025
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:000000,100:00FF41&fontColor=00FF41" />
 </div>
-
-###
 
 ###
