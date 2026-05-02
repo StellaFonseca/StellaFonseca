@@ -2,12 +2,12 @@
 
 **`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
 
-<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="170"/>
+<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
 
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
 Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
 
-Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo em cibersegurança, ampliando minha visão sobre como os sistemas se conectam e onde estão os riscos. Sigo aprendendo, explorando e conectando desenvolvimento, operações e segurança.
+Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo em cibersegurança na área de pré-vendas, desenvolvendo habilidades técnicas e comunicativas. Sigo aprendendo, explorando e conectando desenvolvimento, segurança e operações.
 
 <p align="start">
     <a href= "https://www.linkedin.com/in/stella-fonseca/">
@@ -44,20 +44,16 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
 **🔧 DevOps & CI/CD:** CI/CD • Git/GitHub • GitLab Runner • Docker • Troubleshooting  
 **💻 Programação & Scripting:** Python (Boto3, Flask) • Bash • Automação  
 **🌐 Soft Skills:** Comunicação • Colaboração • Adaptabilidade • Resolução de problemas
+###  **🏆 AWS Certified Cloud Practitioner**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=2"/>
 
-## 💼 Experiência
 
-**DevOps Intern (Portugal)**  
-Atuação com AWS focada em automação e estabilidade de ambientes. Desenvolvimento de scripts em Python (Boto3/Flask), automação de rotinas e suporte a pipelines CI/CD (GitLab Runner), além de configuração e gestão de serviços como EC2, redes e conectividade entre ambientes.
-
-**Pré-vendas em Cibersegurança (Atual)**  
-Apoio na definição de soluções e elaboração de propostas técnicas, com foco em levantamento de requisitos e alinhamento entre necessidades de negócio e segurança, enquanto desenvolvo habilidades técnicas e aprofundo o conhecimento em tecnologias de cibersegurança.
-
-## 🏆 Certificação
-
-**AWS Certified Cloud Practitioner** – Oct 2025
+<div align="center">
+   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=StellaFonseca&rank_icon=github&show_icons=true&theme=aura">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=StellaFonseca&layout=compact&theme=aura">
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StellaFonseca&theme=aura"/>
+</div>
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:000000,100:00FF41&fontColor=00FF41" />
