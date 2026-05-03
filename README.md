@@ -50,8 +50,8 @@ Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo
 
 
 <div align="center">
-   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=StellaFonseca&rank_icon=github&show_icons=true&theme=aura">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=StellaFonseca&layout=compact&theme=aura">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=StellaFonseca&rank_icon=github&show_icons=true&theme=aura&count_private=true">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=StellaFonseca&layout=compact&theme=aura&count_private=true">
   <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StellaFonseca&theme=aura"/>
 </div>
 
