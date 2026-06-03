@@ -7,8 +7,6 @@
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
 Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
 
-Tenho experiência prática inicial com AWS e pipelines CI/CD, e atualmente atuo em cibersegurança na área de pré-vendas, desenvolvendo habilidades técnicas e comunicativas. Sigo aprendendo, explorando e conectando desenvolvimento, segurança e operações.
-
 <p align="start">
     <a href= "https://www.linkedin.com/in/stella-fonseca/">
         <img
