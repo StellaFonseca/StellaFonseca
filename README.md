@@ -1,6 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30"/> Cloud, DevOps & Segurança
-
-**`☁️AWS`** **`🐧Linux`** **`🚀CI/CD`** **`🌐Networking`** **`🔧Infrastructure`** **`🔍Troubleshooting`** 
+![Banner](./matrix-banner.svg)
 
 <img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
 
