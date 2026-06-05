@@ -1,6 +1,6 @@
 ![Banner](./matrix-banner2.svg)
 
-<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
+<img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc2.gif" width="200"/>
 
 Sempre gostei de entender como as coisas funcionam, e mais do que isso, fazer elas funcionarem com as próprias mãos.
 Essa curiosidade me levou para a tecnologia, onde hoje transito entre Cloud, DevOps e Cibersegurança, além da curiosidade de explorar outras áreas.
