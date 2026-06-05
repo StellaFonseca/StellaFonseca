@@ -1,4 +1,4 @@
-![Banner](./matrix-banner.svg)
+![Banner](./matrix-banner2.svg)
 
 <img align="right" src="https://github.com/StellaFonseca/StellaFonseca/blob/main/green-pc.gif" width="200"/>
 
